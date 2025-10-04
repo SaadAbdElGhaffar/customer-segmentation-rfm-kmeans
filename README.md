@@ -31,11 +31,11 @@ The system analyzes customer transaction data to identify distinct customer segm
 - **Comparative Analytics**: Side-by-side comparison of segmentation methods
 - **Prediction System**: Classify new customers into existing segments
 
-## 📚 Data Source
+## Data Source
 
 This project is based on the following Kaggle resources:
-- **📓 Original Notebook**: [Customer Segmentation RFM and K-means](https://www.kaggle.com/code/abdocan/customer-segmentation-rfm-and-kmeans/notebook)
-- **📊 Dataset**: [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- **Original Notebook**: [Customer Segmentation RFM and K-means](https://www.kaggle.com/code/abdocan/customer-segmentation-rfm-and-kmeans/notebook)
+- **Dataset**: [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## Technology Stack
 
