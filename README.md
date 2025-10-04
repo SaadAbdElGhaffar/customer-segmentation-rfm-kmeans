@@ -22,7 +22,7 @@ This end-to-end customer analytics solution provides:
 
 The system analyzes customer transaction data to identify distinct customer segments, enabling businesses to implement targeted marketing campaigns, personalized customer experiences, and data-driven retention strategies.
 
-## � Features
+## Features
 
 - **Dual Segmentation**: Both RFM traditional analysis and ML-based K-means clustering
 - **Interactive Dashboard**: Beautiful Plotly Dash interface with 3D visualizations
@@ -31,13 +31,13 @@ The system analyzes customer transaction data to identify distinct customer segm
 - **Comparative Analytics**: Side-by-side comparison of segmentation methods
 - **Prediction System**: Classify new customers into existing segments
 
-## �📚 Data Source
+## 📚 Data Source
 
 This project is based on the following Kaggle resources:
 - **📓 Original Notebook**: [Customer Segmentation RFM and K-means](https://www.kaggle.com/code/abdocan/customer-segmentation-rfm-and-kmeans/notebook)
 - **📊 Dataset**: [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
-## � Technology Stack
+## Technology Stack
 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, K-means Clustering
